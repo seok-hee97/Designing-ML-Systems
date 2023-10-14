@@ -4,7 +4,7 @@
 ### 머신러닝 시스템 설계.  
 (Designing Machine Learning Systems)
 
-
+https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/
 
 
 ### [TOC]   
@@ -14,6 +14,8 @@
 #### Ch02 머신러닝 시스템 설계 소개(Introduction to Machine Learning Systems Design)  
 
 #### Ch03 데이터 엔지니어링 기초(Data Engineering Fundamentals)  
+
+
 #### Ch04 훈련 데이터(Training Data)  
 #### Ch05 피처 엔지니어링(Feature Engineering)  
 #### Ch06 모델 개발과 오프라인 평가(Model Development and Offline Evaluation)  
