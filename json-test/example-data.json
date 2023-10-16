@@ -1,0 +1,1 @@
+{"name": "Alice", "age": 25, "city": "New York", "pets": [{"name": "Fluffy", "type": "cat"}, {"name": "Buddy", "type": "dog"}], "friends": [{"name": "Bob", "age": 30}, {"name": "Charlie", "age": 28}, {"name": "Dave", "age": 27}], "contact": {"phone": "123-456-7890", "email": "alice@example.com"}}
