@@ -19,7 +19,8 @@ https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/
 
 #### Ch05 피처 엔지니어링(Feature Engineering)  
 
-#### Ch06 모델 개발과 오프라인 평가(Model Development and Offline Evaluation)  
+#### Ch06 모델 개발과 오프라인 평가(Model Development and Offline Evaluation)   
+
 #### Ch07 모델 배포와 에측 서비스(Model Deployment and Prediction Service)  
 #### Ch08 데이터 분포 시트프와 모니터링(Data Distribution Shifts and Monitoring)  
 #### Ch09 연속 학습과 프로덕션 테스트(Continual Learning and Test in Production)  
